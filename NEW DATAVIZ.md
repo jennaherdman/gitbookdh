@@ -1,8 +1,9 @@
-#The Visual Voice: Distant-Reading and Visualization
-**By Jenna Herdman & Allie Watson**
+#Spotlight: Distant-Reading and Visualization
+
+*Thank you to Allie Watson (@allieisanant) for her collaboration on this piece. 
 
 ##Introduction 
-This blog approaches methods of analysis to the study of literature using *big data*. In the study of literature, the method of *close reading* is historically privileged. Close reading entails examining a small piece of a text to analyze the mechanisms of form and style, thus drawing conclusions about the specific workings of the text. For example, what is the significance of a run-on sentence in a moment of crisis for a character? What can be drawn from this passage when understanding the themes of the text as a whole? 
+This article approaches methods of analysis to the study of literature using *big data*. In the study of literature, the method of *close reading* is historically privileged. Close reading entails examining a small piece of a text to analyze the mechanisms of form and style, thus drawing conclusions about the specific workings of the text. For example, what is the significance of a run-on sentence in a moment of crisis for a character? What can be drawn from this passage when understanding the themes of the text as a whole? 
 
 With the development of humanities computing, some literature scholars have moved away from the traditional means of close reading towards distant-reading. This shift means that instead of focusing on a single section of a single text, scholars can expand their vision to categorize, analyze and even visualize literary works. It allows them to draw together data from hundreds or even thousands of different texts and identify trends and networks within those collections. The Stanford Literary Lab [Stanford Literary Lab](https://litlab.stanford.edu), lead by Franco Moretti, is one such group working on the mathematical collection and subsequent analysis of literature. For example, their current ongoing projects include a model of the networks in Shakespeare’s Hamlet, the mapping of algorithms in the historical development of English poetry, and creating an emotional map of London, in which they trace the locations of great emotion in British texts of the eighteenth and nineteenth centuries. Though some scholars still cling to the old supremacy of close reading, distant reading can still tell us a lot about the historical and literary trends which inform our understanding of literature. 
 
