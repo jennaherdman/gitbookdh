@@ -9,11 +9,6 @@ Furthermore, the ability to transform and manipulate a historical map has potent
 
 In this tool tutorial, I will focus on one specific possibility for using digital mapping to interpret literature. I will introduce you to two stages in transforming a map to display the movements of characters and events in a novel. Though this is a fairly simple method of analysis, my hope is that the introductory techniques will show the readers how digital mapping can be useful and feasible to accomplish. 
 
-##Key Terms
-
-*Neography:*
-
-*Webmapping”*
 
 ##Links 
 
@@ -22,18 +17,17 @@ John Levin’s blog: http://anterotesis.com/wordpress/2011/03/digital-humanities
 Project by the centre for Spatial and Textual Analysis at Stanford University. The project has several different elements, but I have linked to one which shows the evolution of the SS concentration camp system from 1933-1945. http://web.stanford.edu/group/spatialhistory/cgi-bin/site/viz.php?id=379&project_id=0
 
 
-
 #Tool Tutorial 
 
 This tutorial will work you through the steps to georectifying a historical map using an online program called Mapwarper. This will fit the map onto a modern day Google Maps. The second step will be through a program called Palladio, and will let us impose points on the historical map. The example I’ve chosen is to chart the movements of David in Charles Dickens’s *David Copperfield*. As you’ll see in my other tutorials, I love working with this text when experimenting with DH tools because it is rich with details and also malleable. 
 
-![picture of David]
+![https://github.com/jennaherdman/gitbookdh/blob/master/440px-Dora_Spenlow_from_David_Copperfield_art_by_Frank_Reynolds.jpg?raw=true]
 
 ##Finding the data 
 
 The map I’ve chosen for our tutorial today is from the People’s Atlas and was made in 1920. If you’re following along, you can download the map ![here](http://www.hipkiss.org/data/maps/london-geographical-institute_the-peoples-atlas_1920_england-and-wales_3012_3992_600.jpg). Otherwise, you are welcome to use a map that fits your interests. I will say, however, that due to the early stages of development of many of these programs, maps which cover larger spaces, such as this map of the UK, are easier to work with. 
 
-![image of map]
+![https://github.com/jennaherdman/gitbookdh/blob/master/london-geographical-institute_the-peoples-atlas_1920_england-and-wales_3012_3992_600.jpg?raw=true]
 
 ##Mapwarper 
 
@@ -41,7 +35,7 @@ Next, we have to upload our map to Mapwarper. This will allow us to georectify t
 
 Go to ![MapWarper](http://mapwarper.net/maps) and sign up for an account. Next, upload your historical map. 
 
-![image of uploading]
+![https://github.com/jennaherdman/gitbookdh/blob/master/unspecified.png?raw=true]
 
 Once you open up the new map, you want to click on the tab that says “Rectify.” 
 
@@ -60,6 +54,8 @@ But I digress.
 
 When you’re done and feel confident about your control points, select “Warp Image!” at the bottom of the page. This will superimpose your historical map onto the Google Maps window. If you’re interested, you can move the slider at the bottom to admire how the landscape of the country changes. 
 
+![https://github.com/jennaherdman/gitbookdh/blob/master/unspecified-2.png?raw=true]
+
 To export your map, click the “Export” tab at the top. We want to keep the Tiles (Google/OSM scheme), which we will use in Palladio. Make sure you save the link! 
 
 Here is my link for the map I’m working on: 
@@ -69,9 +65,6 @@ You are welcome to use this link if you want to skip ahead to the Palladio porti
 
 Great work! 
 
-##A further digression: georectifying a city map 
-
-The map I’m working with for this tutorial is a country-sized map. As stated above, I would recommend beginning with this because it is 
 
 ##Palladio 
 
@@ -105,6 +98,8 @@ http://mapwarper.net/maps/tile/13534/{z}/{x}/{y}.png
 
 Once this is done, hit “Apply.” We should now have a beautiful historical map imposed over the UK. You can zoom in and out on the UK to see how it fits in with the landscape. Furthermore, we can see the dots on the various places where David goes in the novel **David Copperfield.** 
 
+![https://github.com/jennaherdman/gitbookdh/blob/master/unspecified-1.png?raw=true]
+
 Well done! 
 
 ##Exporting your map 
@@ -112,5 +107,9 @@ Well done!
 Unfortunately, the current version of Palladio doesn’t allow you to export your map. I’ve just been taking screenshots to retain my maps for other purposes. If you’re planning to keep editing, you can save your work by selecting the “Download” button in the top right corner and upload the file at a later date.  
 
 ##Analysis
+
+This tutorial has walked you through the basics of MapWarper and Palladio. There are tons of opportunities to experiment with these tools as you become more familiar with the kinks of the two websites. 
+
+
 
 #Further Information
