@@ -49,9 +49,6 @@ When working so intimately with these historical maps, it is very interesting to
 
 But I digress. 
 
-
-![image]
-
 When you’re done and feel confident about your control points, select “Warp Image!” at the bottom of the page. This will superimpose your historical map onto the Google Maps window. If you’re interested, you can move the slider at the bottom to admire how the landscape of the country changes. 
 
 ![https://github.com/jennaherdman/gitbookdh/blob/master/unspecified-2.png?raw=true]
@@ -78,11 +75,13 @@ Palladio will ask you to input some data for your map. Since we’re doing a vis
 
 **Data for Palladio** 
 
+If you’re re-creating the project I’m working on, then you can just copy-paste the data table below. Otherwise, if you’re doing a point-to-point 
+
 City 	Departure	ArrivalBlunderstone	52.4811,1.7534	52.5982,1.728Yarmouth	52.5982,1.728	51.32,0.0759London	51.32,0.0759	51.2802,1.0789Canterbury	51.2802,1.0789	51.1279,1.3134Dover	51.1279,1.3134	51.1279,1.3134
 
 Now that you’ve put in the data, we need to make sure it’s appropriately categorized. In the next screen, click the edit button - the little pencil - next to “Coordinates.” Under “Data type” change the type to “Coordinates.”
 
-![picture of this screen] 
+![https://github.com/jennaherdman/gitbookdh/blob/master/unspecified-1%20copy.png?raw=true] 
 
 Click on the tab that says “Map” at the top of the window. This will show you a white and grey map of the world in the background, with a window which will allow us to add and edit new layers. Select “New Layer.” The first layer we need is to integrate our data. As you can see in the image below, I’ve filled out the fields so that the points will be connected, setting up “Source Places” and “Target Places” accordingly. Also, make sure to select the “Map type” as “Point to Point.” When this information is prepared, then click “Apply.”
 
