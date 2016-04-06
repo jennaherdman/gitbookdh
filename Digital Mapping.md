@@ -63,11 +63,11 @@ The next step is to go to Palladio, which is a tool designed by Stanford for map
 
 Press “Start.” 
 
-Palladio will ask you to input some data for your map. Since we’re doing a visualization of David’s movements in **David Copperfield**, I’ve gone ahead and gotten the latitude-longitude coordinates for the four main settings of the novel. Just copy-paste the data below (including the titles “City” and “Coordinates” into the space for data on Palladio. 
+Palladio will ask you to input some data for your map. Since we’re doing a visualization of David’s movements in *David Copperfield*, I’ve gone ahead and gotten the latitude-longitude coordinates for the four main settings of the novel. Just copy-paste the data below (including the titles “City” and “Coordinates” into the space for data on Palladio. 
 
-**Data for Palladio** 
+###Data for Palladio
 
-If you’re re-creating the project I’m working on, then you can just copy-paste the data table below. *Note: Because of the formatting of this publishing platform, it might be necessary to copy-paste these into columns on Excel, and then copy-paste that formatting into Palladio. This is mostly due to the fickleness of Palladio. 
+If you’re re-creating the project I’m working on, then you can just copy-paste the data table below. **Note: Because of the formatting of this publishing platform, it might be necessary to copy-paste these into columns on Excel, and then copy-paste that formatting into Palladio. This is mostly due to the fickleness of Palladio.**
 
 City 	Departure	ArrivalBlunderstone	52.4811,1.7534	52.5982,1.728Yarmouth	52.5982,1.728	51.32,0.0759London	51.32,0.0759	51.2802,1.0789Canterbury	51.2802,1.0789	51.1279,1.3134Dover	51.1279,1.3134	51.1279,1.3134
 
@@ -87,7 +87,7 @@ Next, we need to input the historical map that we georectified using MapWarper. 
 
 http://mapwarper.net/maps/tile/13534/{z}/{x}/{y}.png
 
-Once this is done, hit “Apply.” We should now have a beautiful historical map imposed over the UK. You can zoom in and out on the UK to see how it fits in with the landscape. Furthermore, we can see the dots on the various places where David goes in the novel **David Copperfield.** 
+Once this is done, hit “Apply.” We should now have a beautiful historical map imposed over the UK. You can zoom in and out on the UK to see how it fits in with the landscape. Furthermore, we can see the dots on the various places where David goes in the novel *David Copperfield.*
 
 ![ex 1](https://github.com/jennaherdman/gitbookdh/blob/master/images%20for%20digital%20mapping/unspecified-5.png?raw=true)
 
