@@ -1,5 +1,6 @@
+#Tool Tutorial: Text Analysis
 
-#What is text analysis?
+##What is text analysis?
 
 As a student of both English literature and Digital Humanities, one of my core goals has been to develop knowledge of different tools which help these two academic concentrations complement and enhance one another. Luckily, several tools already exist which offer us the means for a distant-reading approach to texts, allowing us to look at the patterns and differences of several texts at the same time. Some scholars are developing databases which allow you to look at over a million books. 
 
