@@ -90,7 +90,7 @@ Click on the tab that says “Map” at the top of the window. This will show yo
 
 You’ll be able to see that the points and lines have been added to the background land map. 
 
-![image?]
+![https://github.com/jennaherdman/gitbookdh/blob/master/unspecified%20copy.png?raw=true]
 
 Next, we need to input the historical map that we georectified using MapWarper. Once again, select “add a new layer.” Then go to the tab that says “Tiles.” Select “custom.” In the space where it says “Tileset URL” we want to put in the link we got from MapWarper (for the map I’m editing here, it is: 
 
