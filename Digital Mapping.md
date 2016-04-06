@@ -17,7 +17,7 @@ Project by the centre for Spatial and Textual Analysis at Stanford University. T
 
 This tutorial will work you through the steps to georectifying a historical map using an online program called Mapwarper. This will fit the map onto a modern day Google Maps. The second step will be through a program called Palladio, and will let us impose points on the historical map. The example I’ve chosen is to chart the movements of David in Charles Dickens’s *David Copperfield*. As you’ll see in my other tutorials, I love working with this text when experimenting with DH tools because it is rich with details and also malleable. 
 
-![David and Dora](https://github.com/jennaherdman/gitbookdh/blob/master/images%20for%20digital%20mapping/440px-Dora_Spenlow_from_David_Copperfield_art_by_Frank_Reynolds.jpg?raw=tru)
+![David and Dora](https://github.com/jennaherdman/gitbookdh/blob/master/images%20for%20digital%20mapping/davidcopperfield.png?raw=true)
 
 ##Finding the data 
 
