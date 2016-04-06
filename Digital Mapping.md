@@ -67,9 +67,10 @@ Palladio will ask you to input some data for your map. Since we’re doing a vis
 
 **Data for Palladio** 
 
-If you’re re-creating the project I’m working on, then you can just copy-paste the data table below. Otherwise, if you’re doing a point-to-point 
+If you’re re-creating the project I’m working on, then you can just copy-paste the data table below. *Note: Because of the formatting of this publishing platform, it might be necessary to copy-paste these into columns on Excel, and then copy-paste that formatting into Palladio. This is mostly due to the fickleness of Palladio. 
 
 City 	Departure	ArrivalBlunderstone	52.4811,1.7534	52.5982,1.728Yarmouth	52.5982,1.728	51.32,0.0759London	51.32,0.0759	51.2802,1.0789Canterbury	51.2802,1.0789	51.1279,1.3134Dover	51.1279,1.3134	51.1279,1.3134
+
 
 Now that you’ve put in the data, we need to make sure it’s appropriately categorized. In the next screen, click the edit button - the little pencil - next to “Coordinates.” Under “Data type” change the type to “Coordinates.”
 
