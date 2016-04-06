@@ -23,7 +23,7 @@ This tutorial will work you through the steps to georectifying a historical map 
 
 The map I’ve chosen for our tutorial today is from the People’s Atlas and was made in 1920. If you’re following along, you can download the map [here](http://www.hipkiss.org/data/maps/london-geographical-institute_the-peoples-atlas_1920_england-and-wales_3012_3992_600.jpg). Otherwise, you are welcome to use a map that fits your interests. I will say, however, that due to the early stages of development of many of these programs, maps which cover larger spaces, such as this map of the UK, are easier to work with. 
 
-![https://github.com/jennaherdman/gitbookdh/blob/master/london-geographical-institute_the-peoples-atlas_1920_england-and-wales_3012_3992_600.jpg?raw=true]
+![map of england](https://github.com/jennaherdman/gitbookdh/blob/master/images%20for%20digital%20mapping/ukmap.png?raw=true)
 
 ##Mapwarper 
 
@@ -31,7 +31,7 @@ Next, we have to upload our map to Mapwarper. This will allow us to georectify t
 
 Go to [MapWarper](http://mapwarper.net/maps) and sign up for an account. Next, upload your historical map. 
 
-![https://github.com/jennaherdman/gitbookdh/blob/master/images%20for%20digital%20mapping/unspecified.png?raw=true]
+![historical map](https://github.com/jennaherdman/gitbookdh/blob/master/images%20for%20digital%20mapping/unspecified.png?raw=true)
 
 Once you open up the new map, you want to click on the tab that says “Rectify.” 
 
@@ -47,7 +47,7 @@ But I digress.
 
 When you’re done and feel confident about your control points, select “Warp Image!” at the bottom of the page. This will superimpose your historical map onto the Google Maps window. If you’re interested, you can move the slider at the bottom to admire how the landscape of the country changes. 
 
-![https://github.com/jennaherdman/gitbookdh/blob/master/images%20for%20digital%20mapping/unspecified-2.png?raw=true]
+![warping image](https://github.com/jennaherdman/gitbookdh/blob/master/images%20for%20digital%20mapping/unspecified-2.png?raw=true)
 
 To export your map, click the “Export” tab at the top. We want to keep the Tiles (Google/OSM scheme), which we will use in Palladio. Make sure you save the link! 
 
@@ -76,14 +76,14 @@ City 	Departure	ArrivalBlunderstone	52.4811,1.7534	52.5982,1.728Yarmouth	52.59
 
 Now that you’ve put in the data, we need to make sure it’s appropriately categorized. In the next screen, click the edit button - the little pencil - next to “Coordinates.” Under “Data type” change the type to “Coordinates.”
 
-![https://github.com/jennaherdman/gitbookdh/blob/master/images%20for%20digital%20mapping/unspecified-1%20copy.png?raw=true] 
+![coordinates](https://github.com/jennaherdman/gitbookdh/blob/master/images%20for%20digital%20mapping/unspecified-1%20copy.png?raw=true)
 
 Click on the tab that says “Map” at the top of the window. This will show you a white and grey map of the world in the background, with a window which will allow us to add and edit new layers. Select “New Layer.” The first layer we need is to integrate our data. As you can see in the image below, I’ve filled out the fields so that the points will be connected, setting up “Source Places” and “Target Places” accordingly. Also, make sure to select the “Map type” as “Point to Point.” When this information is prepared, then click “Apply.”
 
 
 You’ll be able to see that the points and lines have been added to the background land map. 
 
-![https://github.com/jennaherdman/gitbookdh/blob/master/images%20for%20digital%20mapping/unspecified%20copy.png?raw=true]
+![background](https://github.com/jennaherdman/gitbookdh/blob/master/images%20for%20digital%20mapping/unspecified%20copy.png?raw=true)
 
 Next, we need to input the historical map that we georectified using MapWarper. Once again, select “add a new layer.” Then go to the tab that says “Tiles.” Select “custom.” In the space where it says “Tileset URL” we want to put in the link we got from MapWarper (for the map I’m editing here, it is: 
 
@@ -91,11 +91,11 @@ http://mapwarper.net/maps/tile/13534/{z}/{x}/{y}.png
 
 Once this is done, hit “Apply.” We should now have a beautiful historical map imposed over the UK. You can zoom in and out on the UK to see how it fits in with the landscape. Furthermore, we can see the dots on the various places where David goes in the novel **David Copperfield.** 
 
-![https://github.com/jennaherdman/gitbookdh/blob/master/images%20for%20digital%20mapping/unspecified-5.png?raw=true]
+![ex 1](https://github.com/jennaherdman/gitbookdh/blob/master/images%20for%20digital%20mapping/unspecified-5.png?raw=true)
 
-![https://github.com/jennaherdman/gitbookdh/blob/master/images%20for%20digital%20mapping/unspecified-1.png?raw=true]
+![ex 2](https://github.com/jennaherdman/gitbookdh/blob/master/images%20for%20digital%20mapping/unspecified-1.png?raw=true)
 
-![https://github.com/jennaherdman/gitbookdh/blob/master/images%20for%20digital%20mapping/unspecified-6.png?raw=true]
+![ex 3](https://github.com/jennaherdman/gitbookdh/blob/master/images%20for%20digital%20mapping/unspecified-6.png?raw=true)
 
 Well done! 
 
