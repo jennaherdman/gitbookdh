@@ -98,7 +98,11 @@ http://mapwarper.net/maps/tile/13534/{z}/{x}/{y}.png
 
 Once this is done, hit “Apply.” We should now have a beautiful historical map imposed over the UK. You can zoom in and out on the UK to see how it fits in with the landscape. Furthermore, we can see the dots on the various places where David goes in the novel **David Copperfield.** 
 
+![https://github.com/jennaherdman/gitbookdh/blob/master/unspecified-5.png?raw=true]
+
 ![https://github.com/jennaherdman/gitbookdh/blob/master/unspecified-1.png?raw=true]
+
+![https://github.com/jennaherdman/gitbookdh/blob/master/unspecified-6.png?raw=true]
 
 Well done! 
 
