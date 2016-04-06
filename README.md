@@ -11,3 +11,10 @@ This is intended to be an inclusive space. The DH world can be exclusive, while 
 *My research interests:* Nineteenth century literature and culture, popular culture, gender, queer theory, the gothic, sympathy and sentimentality, literary theory, archive theory, social media and identity construction, wikipedia digital humanities, text analysis, accessibility 
 
 *Contact Info:* I welcome questions and feedback on how I can improve this project. 
+
+Projects 
+* tool tutorials - 5 (digital mapping, text analysis, network theory, distant reading/visualizations, Twine - interactive game and narrative)
+* social media/website critique - Wikipedia & Facebook identity construction 
+* ethical DH 
+* major projects going on in DH (reviews) 
+
