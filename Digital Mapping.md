@@ -6,11 +6,8 @@ Furthermore, the ability to transform and manipulate a historical map has potent
 
 In this tool tutorial, I will focus on one specific possibility for using digital mapping to interpret literature. I will introduce you to two stages in transforming a map to display the movements of characters and events in a novel. Though this is a fairly simple method of analysis, my hope is that the introductory techniques will show the readers how digital mapping can be useful and feasible to accomplish. 
 
-##Links 
 
-John Levin’s blog: http://anterotesis.com/wordpress/2011/03/digital-humanities-gis-projects/
 
-Project by the centre for Spatial and Textual Analysis at Stanford University. The project has several different elements, but I have linked to one which shows the evolution of the SS concentration camp system from 1933-1945. http://web.stanford.edu/group/spatialhistory/cgi-bin/site/viz.php?id=379&project_id=0
 
 
 #Tool Tutorial 
@@ -62,7 +59,7 @@ Great work!
 
 The next step is to go to Palladio, which is a tool designed by Stanford for map visualizations. Palladio can be quite hard to use, since it’s still a pretty new program, and I’ve had a lot of problems with it. Despite this, I do think it is worth experimenting with and that the tools you can use it with do have the potential to yield interesting results. 
 
-![Palladio](http://palladio.designhumanities.org/#/)
+[Palladio](http://palladio.designhumanities.org/#/)
 
 Press “Start.” 
 
@@ -83,7 +80,7 @@ Click on the tab that says “Map” at the top of the window. This will show yo
 
 You’ll be able to see that the points and lines have been added to the background land map. 
 
-![background](https://github.com/jennaherdman/gitbookdh/blob/master/images%20for%20digital%20mapping/unspecified%20copy.png?raw=true)
+![background](https://github.com/jennaherdman/gitbookdh/blob/master/images%20for%20digital%20mapping/dotson.png?raw=true)
 
 Next, we need to input the historical map that we georectified using MapWarper. Once again, select “add a new layer.” Then go to the tab that says “Tiles.” Select “custom.” In the space where it says “Tileset URL” we want to put in the link we got from MapWarper (for the map I’m editing here, it is: 
 
@@ -103,10 +100,19 @@ Well done!
 
 Unfortunately, the current version of Palladio doesn’t allow you to export your map. I’ve just been taking screenshots to retain my maps for other purposes. If you’re planning to keep editing, you can save your work by selecting the “Download” button in the top right corner and upload the file at a later date.  
 
-##Analysis
+##Conclusions
 
-This tutorial has walked you through the basics of MapWarper and Palladio. There are tons of opportunities to experiment with these tools as you become more familiar with the kinks of the two websites. 
+This tutorial has walked you through the basics of MapWarper and Palladio. There are tons of opportunities to experiment with these tools as you become more familiar with the kinks of the two websites. If you’re a beginner in these tools, I’d suggest running through this tutorial with a few different maps to suit your research purposes or interests. The links below show several other projects using these tools which I would highly recommend checking out. I’ll conclude this tool tutorial with a few examples of nineteenth century lit DH projects that I’d love to see done, or perhaps accomplish myself in the future. 
 
-
+* Daniel Defoe’s London in *A Journal of the Plague Year*
+* settings and movements of different Dickens novels 
+* mapping sites of “feeling” or “sympathy” in literary England 
 
 #Further Information
+
+[Miriam Posner’s tool tutorial](http://miriamposner.com/blog/getting-started-with-palladio/)
+
+[John Levin’s blog](http://anterotesis.com/wordpress/2011/03/digital-humanities-gis-projects/)
+
+Project by the centre for Spatial and Textual Analysis at Stanford University. The project has several different elements, but I have linked to one which shows [the evolution of the SS concentration camp system from 1933-1945](http://web.stanford.edu/group/spatialhistory/cgi-bin/site/viz.php?id=379&project_id=0)
+
