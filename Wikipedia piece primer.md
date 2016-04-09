@@ -9,7 +9,6 @@ The digital humanities is not all about building things using new tools. Somethi
 * The site has over 17 million articles in 279 languages, and is visited by over a million people each day 
 * Wikipedia serves a dual archival function of memorializing the past while producing an archive of the present for future generations, thus constructing this future understanding of history according to particular biases. 
 * Roy Rosenzweig reads Wikipedia as an act of history, saying: “like journalism, Wikipedia offers a first draft of history, but unlike journalism's draft, that history is subject to continuous revision. Wikipedia's ease of revision not only makes it more up-to-date than a traditional encyclopaedia, it also gives it (like the Web itself) a self-healing quality since defects that are criticized can be quickly remedied and alternative perspectives can be instantly added” (Rosenzweig). 
-* David Greetham describes the archive’s cultivation by comparing it to a time capsule, saying that “we want to preserve the best of ourselves for those who follow” (as cited in Manoff 20). 
 
 #How is Wikipedia’s structure problematic? 
 
@@ -26,12 +25,13 @@ The digital humanities is not all about building things using new tools. Somethi
 
 * If the preserved information is cultivated by a selective group – in this case, the active, predominantly male Wikipedia editors, then Wikipedia is subject to these constraints of the archive in which certain narratives are preserved, serving unilateral interests and goals. 
 
-*  How, then, do we compensate for the silences of Wikipedia – for the censors enforced in the name of accuracy and fairness? What assumptions and beliefs fill in that void?  
+* How, then, do we compensate for the silences of Wikipedia – for the censors enforced in the name of accuracy and fairness? What assumptions and beliefs fill in that void?  
 
-#Further reading & Works Cited 
+#Further reading 
 
-Manoff
 
-Rosenzweig 
+[Roy Rosenzweig](http://chnm.gmu.edu/essays-on-history-new-media/essays/?essayid=42) - “Can History be Open Source? Wikipedia and the Future of the Past” 
 
-Herring 
+[Susan Herring](http://www.nytimes.com/roomfordebate/2011/02/02/where-are-the-women-in-wikipedia/communication-styles-make-a-difference) - “Communication Styles Make a Difference.”
+
+[The Wisdom of Crowds(ourcing](http://quod.lib.umich.edu/d/dh/12230987.0001.001/1:5/--writing-history-in-the-digital-age?g=dculture;rgn=div1;view=fulltext;xc=1)
