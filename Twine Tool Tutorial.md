@@ -44,7 +44,7 @@ To test out the game, just press “Play” at the bottom of the workflow screen
 
 These are the basics of using Twine. There are tons of options for experimentation, and I hope you will enjoy getting the hang of it and checking out some more complicated tutorials. To conclude, I’ve included an image of the story map of one of my Twine stories, so you can see how confusing and exciting they can become. 
 
-[My Twine](https://github.com/jennaherdman/gitbookdh/blob/master/twine%20screenshots/twine%20pic%205.png?raw=true)
+![My Twine](https://github.com/jennaherdman/gitbookdh/blob/master/twine%20screenshots/twine%20pic%205.png?raw=true)
 
 To host your Twine, download the HTML. You can either host it on your website or through a spot like [Philome.la](http://philome.la) 
 
