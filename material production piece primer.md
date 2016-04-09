@@ -8,7 +8,8 @@ How can we be DH-ers without being aware of the material conditions and exploita
 
 What happens to the iPhone you discard after a couple years in favour of the newest model?
 
-![Electronic Waste Dump in Guiyu, China]
+![Electronic Waste Dump in Guiyu, China](https://github.com/jennaherdman/gitbookdh/blob/master/ewaste9_wideweb__470x312,0.png?raw=true)
+**photo credit [smh.com](http://www.smh.com.au/news/technology/is-this-the-worlds-most-toxic-town/2007/11/19/1195321682232.html)
 
 [The poetry and brief life of a Foxconn worker: Xu Lizhi (1990-2014)](https://libcom.org/blog/xulizhi-foxconn-suicide-poetry) 
 
